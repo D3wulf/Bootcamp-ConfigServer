@@ -1,6 +1,3 @@
-server:
-  port:8080
-some:
-  value:valor del servidor
-  #server: "port:8080"
-  #some: "value:valor del servidor"
+--- 
+server: "port:8080"
+some: "value:valor del servidor"
