@@ -1,0 +1,7 @@
+server:
+    port: 8082
+some:
+    value: Prueba1 del reto
+info:
+  app:
+    localizacion: Estas en la prueba1
