@@ -1,0 +1,9 @@
+server:
+    port: 8083
+some:
+    value: Prueba1 del reto
+    nombre: Miguel
+    edad: 21
+info:
+  app:
+    localizacion: Estas en la prueba1
