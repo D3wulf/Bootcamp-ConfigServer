@@ -1,0 +1,7 @@
+server:
+    port: 8081
+some:
+    value: Valor en el reto
+info:
+  app:
+    color: negro
