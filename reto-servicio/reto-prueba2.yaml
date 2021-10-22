@@ -1,7 +1,7 @@
 server:
     port: 8083
 some:
-    value: Prueba1 del reto
+    value: Prueba2 del reto,probando refresh
     nombre: Miguel
     edad: 21
 info:
