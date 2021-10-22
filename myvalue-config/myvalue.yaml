@@ -2,3 +2,6 @@ server:
     port: 8081
 some:
     value: valor del nuevo reto
+info:
+  app:
+    name: Miguel
